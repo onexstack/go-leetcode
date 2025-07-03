@@ -13,3 +13,9 @@
 ## 仓库操作
 
 - 仓库未来会直接生成带标签的 PDF 文件；
+
+## 参考
+
+以下是 GitHub 上其他 Go 版的仓库：
+
+- [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
